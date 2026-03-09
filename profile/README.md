@@ -40,7 +40,7 @@ The result? Drop your project files into the repo, point your AI agent at `CLAUD
 
 ```
 ┌─────────────────┐         ┌──────────────────────┐         ┌─────────────────┐
-│                 │         │     THE  FORGE        │         │                 │
+│                 │         │     THE  FORGE       │         │                 │
 │  General-       │         │                      │         │  Domain         │
 │  Purpose AI     │────────>│  CLAUDE.md           │────────>│  Expert         │
 │                 │         │  + Rules             │         │                 │
