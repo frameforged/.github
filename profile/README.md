@@ -228,5 +228,5 @@ Full license terms: [LICENSE](LICENSE)
 <p align="center">
   <strong>The intelligence is already there. We just give it the right shape.</strong><br/><br/>
   Copyright (c) 2021-present <a href="https://nanelimon.ai">nanelimon.ai</a> — All rights reserved.<br/><br/>
-  <a href="https://github.com/frameforged">GitHub</a> · <a href="https://nanelimon.ai">nanelimon.ai</a> · <a href="mailto:contact@nanelimon.ai">contact@nanelimon.ai</a>
+  <a href="https://github.com/frameforged">GitHub</a> · <a href="https://nanelimon.ai">nanelimon.ai</a> · <a href="mailto:support@nanelimon.ai">support@nanelimon.ai</a>
 </p>
