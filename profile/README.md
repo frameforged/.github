@@ -221,7 +221,7 @@ We invest significant domain expertise — real-world industry knowledge from en
 - **Commercial users** support the project's sustainability
 - **nanelimon.ai** can continue investing in new domains
 
-Full license terms: [LICENSE](../LICENSE)
+Full license terms: [LICENSE](https://github.com/frameforged/.github/blob/main/LICENSE)
 
 ---
 
