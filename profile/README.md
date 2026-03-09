@@ -23,7 +23,7 @@ The missing piece isn't intelligence. It's **structure**.
 
 ## What is frameforged?
 
-**frameforged** is a collection of open-source, domain-specific frameworks that transform general-purpose AI agents into **operational specialists**.
+**frameforged** is a collection of source-available, domain-specific frameworks that transform general-purpose AI agents into **operational specialists**.
 
 Each repository is a complete knowledge system:
 
@@ -205,7 +205,7 @@ We started frameforged because we saw a gap: AI agents are powerful, but without
 
 ### How to register
 
-Send an email to **contact@nanelimon.ai** with:
+Send an email to **support@nanelimon.ai** with:
 - Your name or organization
 - Which repository you want to use
 - Your intended use case
