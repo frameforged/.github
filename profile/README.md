@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="#what-is-frameforged">What</a> · <a href="#how-it-works">How</a> · <a href="#repositories">Repos</a> · <a href="#get-started">Start</a> · <a href="#contributing">Contribute</a>
+  <a href="#what-is-frameforged">What</a> · <a href="#how-it-works">How</a> · <a href="#repositories">Repos</a> · <a href="#get-started">Start</a> · <a href="#collaboration">Collaborate</a>
 </p>
 
 ---
@@ -148,42 +148,67 @@ Frameworks are:
 
 Raw metal is strong but shapeless. A forge doesn't change what the metal *is* — it shapes it into something *useful*. That's exactly what frameforged does to AI agents. The intelligence is already there. We just give it the right shape for the job.
 
-## Contributing
+## Collaboration
 
-We believe the best domain frameworks are built by **domain experts**, not AI engineers. If you know your industry inside out, you can build a frameforged framework — no coding required.
+The best frameworks aren't built by AI engineers — they're built by **people who do the actual work**. A construction estimator who has priced 200 projects knows things no language model ever will. A procurement specialist who has negotiated 500 contracts carries knowledge that no training dataset captures.
 
-### Ways to contribute
+**frameforged needs that knowledge.** And we've designed the entire system so you can contribute it — without writing a single line of code.
 
-**Build a new framework**
+### Why your expertise matters
 
-You're an expert in construction planning, supply chain management, real estate valuation, medical research, or any other domain? Create a framework for it.
+AI models are trained on public internet data. They know *about* industries. But they don't know the unwritten rules — the pricing logic that only makes sense after years on the job, the red flags in a tender document that textbooks never mention, the workflow shortcuts that separate a junior from a senior.
 
-1. Fork this organization's [template repository](https://github.com/frameforged/template) *(coming soon)*
-2. Structure your domain knowledge into `references/`, `templates/`, and `CLAUDE.md`
-3. Test it with real-world scenarios
-4. Submit a PR or open a discussion to get it listed
+When you contribute to frameforged, you're not just editing markdown files. You're encoding **operational intelligence** that makes AI agents genuinely useful for professionals in your field. Every rule you add, every reference table you update, every template you refine — it directly shapes how thousands of AI agents behave in real-world scenarios.
 
-**Improve an existing framework**
+### How to contribute
 
-- Add missing reference data (material prices, productivity rates, standards)
-- Improve templates and checklists
-- Add new workflow scenarios
-- Fix inaccuracies or outdated information
-- Translate frameworks to other languages
+#### Build a new domain framework
 
-**Report issues and suggest features**
+You're a domain expert — a civil engineer, a supply chain analyst, a legal professional, a financial auditor, or anyone with deep operational knowledge. Here's how to turn that into a framework:
 
-- Found a gap in a framework? [Open an issue](https://github.com/frameforged/epc-tender/issues)
-- Have an idea for a new domain? [Start a discussion](https://github.com/orgs/frameforged/discussions)
-- Want to share how you use frameforged? Write about it
+1. Fork the [template repository](https://github.com/frameforged/template) *(coming soon)*
+2. Structure your knowledge into `references/`, `templates/`, and `CLAUDE.md`
+3. Test it against real-world scenarios — give it actual project files and see if the output is professional-grade
+4. [Open a discussion](https://github.com/orgs/frameforged/discussions) or submit a PR to get it listed
 
-### Contribution guidelines
+You don't need to build everything at once. Start with one workflow, one set of rules, one template. The community will help you expand it.
 
-- **Domain accuracy is paramount** — every reference, every rate, every rule must be sourced and current
-- **Write in clear, simple language** — frameworks are read by AI agents *and* humans
-- **Keep files focused** — one concept per file, clear naming, logical structure
-- **Test with real scenarios** — a framework that doesn't work in practice isn't ready
-- **Respect confidentiality** — never include proprietary data, client information, or competitor pricing
+#### Strengthen an existing framework
+
+Every framework has gaps — a missing productivity rate, an outdated standard, a scenario that wasn't covered. If you spot one, fix it:
+
+- **Add reference data** — material prices, labor rates, benchmark figures from your region or specialty
+- **Refine templates** — improve report structures, add evaluation criteria, create new checklists
+- **Expand workflows** — cover edge cases, add decision branches, document exception handling
+- **Update standards** — regulations change, codes get revised, best practices evolve
+- **Localize** — translate frameworks or adapt them to regional standards and practices
+
+#### Share domain knowledge
+
+Not ready to write a full framework? Your knowledge is still valuable:
+
+- [Open a discussion](https://github.com/orgs/frameforged/discussions) to share how your industry works — what an AI agent *should* know to be useful
+- [Report issues](https://github.com/frameforged/epc-tender/issues) when you spot inaccuracies, missing context, or wrong assumptions
+- Suggest new domains that would benefit from structured frameworks
+- Review existing frameworks from your area of expertise and flag what's missing
+
+### Contribution principles
+
+| Principle | What it means |
+|-----------|--------------|
+| **Domain accuracy first** | Every rate, rule, and reference must be sourced and current. When in doubt, cite the standard. |
+| **Write for two audiences** | Frameworks are read by AI agents *and* humans. Clear, simple language wins. |
+| **One concept, one file** | Keep files focused. A file about pricing shouldn't drift into scheduling. |
+| **Test with real work** | A framework that doesn't produce professional output on actual project files isn't ready. |
+| **Protect confidentiality** | Never include proprietary data, client information, internal pricing, or anything that shouldn't be public. |
+
+### The bigger picture
+
+Every industry has decades of accumulated knowledge sitting in the heads of experienced professionals. Most of it never gets documented — it's passed down through mentorship, learned through trial and error, or simply lost when people move on.
+
+frameforged is a way to **capture and structure that knowledge** so it doesn't disappear. When you contribute, you're not just helping an AI agent — you're building a shared knowledge base that makes your entire industry more accessible, more transparent, and more efficient.
+
+> **No coding required. No AI expertise needed. Just your domain knowledge, structured in a way that machines — and humans — can use.**
 
 ## About
 
